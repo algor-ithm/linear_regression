@@ -73,3 +73,36 @@ The results section compares the predictions made by the from-scratch implementa
 Install the dependencies using:
 ```bash
 pip install numpy pandas matplotlib sklearn jupyter
+```
+
+## Usage
+1. Clone repository:
+```bash
+git clone https://github.com/yourusername/linear_regression.git
+```
+
+2. Navigate to the project directory:
+```bash
+cd linear_regression
+```
+
+3. Open the Jupyter notebook:
+```bash
+jupyter notebook simple_linear_regression_example.ipynb
+```
+
+4. Run the cells in the notebook to see implmentation and results.
+
+## Resources
+
+- **Dr. Hyuk Cho**: Provided guidance, resources and code snippets for the project. 
+- [Linear Regression From Scratch](https://towardsdatascience.com/linear-regression-from-scratch-cd0dee067f72)
+- [Linear Regression From Scratch in Python](https://mubaris.com/posts/linear-regression/)
+- [Machine Learning From Scratch](https://github.com/chasinginfinity/ml-from-scratch)
+- [Linear Regression with Practical Implementation](https://medium.com/machine-learning-researcher/linear-regression-algorithm-in-machine-learning-87c945019cf1)
+- [Linear Regression Notes by Andrew Ng](https://www.coursera.org/learn/machine-learning)
+- [Master Polynomial Regression with Easy-to-Follow Tutorials](https://www.analyticsvidhya.com/blog/2021/07/all-you-need-to-know-about-polynomial-regression/#:~:text=Polynomial%20regression%20is%20a%20form,convert%20it%20into%20Polynomial%20regression.)
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request with your changes. 
