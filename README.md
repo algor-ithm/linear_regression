@@ -19,7 +19,6 @@ This project demonstrates the implementation of a linear regression model using 
 - [Usage](#usage)
 - [Resources](#resources)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Structure
 - `simple_linear_regression.ipynb`: Jupyter notebook containing the implementation of the linear regression model from scratch and using 'sklearn'.
